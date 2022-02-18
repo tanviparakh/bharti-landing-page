@@ -294,8 +294,8 @@ p{
   border-color:#000000;
 }
 .header-btn1 {
-  font-size: 15px !important;
-  letter-spacing: 1.25px !important;
+  font-size: 1rem;
+  letter-spacing: 1.25px
   font-weight: 600;
   background-color: #fbf3fa;
   color: #000000ba;
@@ -453,7 +453,7 @@ p{
   font-size: 17px;
   letter-spacing: 0.5px;
   padding-left: 5%;
-  padding-bottom: 1%;s
+  padding-bottom: 1%;
 }
 
 .summary-price{
@@ -1056,8 +1056,8 @@ p{
 
 
 /*
-&#128640
-&#128198
-&#128214
-&#128179
+&#128640;
+&#128198;
+&#128214;
+&#128179;
 &#9989 */

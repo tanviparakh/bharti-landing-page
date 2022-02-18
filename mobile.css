@@ -91,7 +91,7 @@
 
 
     .mft{
-      font-size: 36px;
+      font-size: 3rem;
     }
 
     .price-text{
@@ -164,6 +164,7 @@
       padding-left: 12%;
     }
     .hero-heading{
+      padding: 0 4%;
       font-size: 4rem !important;
     }
     .heading-subtext{
@@ -218,6 +219,8 @@
     }
     .header-btn1{
       font-size: 2.5rem !important;
+      margin-bottom: 5%;
+      margin-left: 5%;
     }
     p{
       font-size: 2rem !important;
@@ -318,8 +321,12 @@
       min-width: 879px;
     }
     .bio-copy{
+      padding: 0;
+      margin: 0;
       margin-top: 50px;
       min-width: 830px;
+      padding-left: 5%;
+      margin-bottom: 5%;
     }
     .faq-header{
       font-size: 3rem;
@@ -364,5 +371,39 @@
 
     .credit-tag{
       width: 60%;
+    }
+
+    #summary .card-header{
+      font-weight: bold;
+      font-size: 2.2rem;
+      padding-left: 3%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+    }
+
+    .summary-price{
+      font-weight: bold;
+      font-size: 2.5rem;
+      margin-bottom: 3%;
+    }
+
+    .summary-img{
+      margin-left: 10%;
+    }
+
+    .bio-lmar {
+      padding: 0;
+      margin: 0;
+      font-size: 3rem;
+      font-weight: bold;
+      padding-left: 5%;
+
+    }
+
+    .bio-overline{
+      font-size: 1.5rem;
+      font-weight: lighter;
+      padding-top: 5%;
+      padding-left: 5%;
     }
   /* } */
